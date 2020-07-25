@@ -1,0 +1,1 @@
+const Paginate = Document.arguments()
